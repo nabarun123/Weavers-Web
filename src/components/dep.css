@@ -1,0 +1,12 @@
+#dep {
+  display: flex;
+  margin: 55px;
+  justify-content: center;
+  align-items: center;
+}
+#dep1 {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+}
